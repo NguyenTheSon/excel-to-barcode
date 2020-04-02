@@ -1,0 +1,16 @@
+{
+  "name": "excel-to-barcode",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jsbarcode": "^3.11.0",
+    "nodemon": "^2.0.2",
+    "xlsx": "^0.15.5",
+    "xmldom": "^0.3.0",
+    "yarn": "^1.17.3"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {}
+}
